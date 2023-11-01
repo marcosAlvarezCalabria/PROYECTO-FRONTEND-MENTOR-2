@@ -142,6 +142,24 @@ align-items: center;
   }
   .card2{}
   .card3{align-self: flex-end;}}
+
+
+
+
+  /***********************************450PX*****************************/
+  @media only screen and (min-width: 350px){
+    .stars-container{
+      margin: 0 auto;
+    }
+
+
+
+
+
+  }
+
+
+
   /***********************************768px*********************************/
 
 @media only screen and (min-width: 768px){
